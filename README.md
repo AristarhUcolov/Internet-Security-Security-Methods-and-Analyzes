@@ -19,10 +19,6 @@
 ### Как использовать:
 1. Клонируйте репозиторий:  
    `git clone https://github.com/AristarhUcolov/Internet-Security-Security-Methods-and-Analyzes.git`
-2. Установите зависимости:  
-   `pip install -r requirements.txt`
-3. Запустите анализ:  
-   `python security_analysis.py`
 
 ### Примечания:
 - Все обновления будут добавляться по мере разработки проекта. 📈
@@ -56,10 +52,6 @@
 ### How to use:
 1. Clone the repository:  
    `git clone https://github.com/AristarhUcolov/Internet-Security-Security-Methods-and-Analyzes.git`
-2. Install dependencies:  
-   `pip install -r requirements.txt`
-3. Run the analysis:  
-   `python security_analysis.py`
 
 ### Notes:
 - All updates will be added as the project develops. 📈
